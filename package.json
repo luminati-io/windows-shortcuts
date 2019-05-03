@@ -1,6 +1,6 @@
 {
   "name": "lum_windows-shortcuts",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Create, edit, and query Windows shortcuts (.lnk files)",
   "scripts": {
     "test": "node test/test.js"
