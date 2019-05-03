@@ -1,6 +1,6 @@
 {
-  "name": "windows-shortcuts",
-  "version": "0.1.6",
+  "name": "lum_windows-shortcuts",
+  "version": "0.1.7",
   "description": "Create, edit, and query Windows shortcuts (.lnk files)",
   "scripts": {
     "test": "node test/test.js"
@@ -16,9 +16,9 @@
   "typings": "./lib/windows-shortcuts.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/j201/windows-shortcuts.git"
+    "url": "git://github.com/luminati-io/windows-shortcuts.git"
   },
-  "homepage": "http://github.com/j201/windows-shortcuts",
+  "homepage": "http://github.com/luminati-io/windows-shortcuts",
   "devDependencies": {
     "signal-exit": "^2.1.2",
     "tape": "^4.4.0",
